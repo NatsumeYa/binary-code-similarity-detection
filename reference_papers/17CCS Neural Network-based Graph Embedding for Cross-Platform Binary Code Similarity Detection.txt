@@ -1,0 +1,15 @@
+1、论文名称
+Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection
+
+2、会议名
+17CCS
+
+3、论文下载地址
+https://dl.acm.org/doi/abs/10.1145/3133956.3134018
+
+4、开源项目地址
+https://github.com/xiaojunxu/dnn-binary-code-similarity
+
+5、说明
+bcsdModel 二进制代码的相似度检测模型 在该篇文献的基础上，
+重写训练方法，增加评估实验。
